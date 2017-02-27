@@ -1,0 +1,42 @@
+body {
+  background-color: #55acee;
+  text-align: center;
+  color: white;
+}
+
+button {
+  margin-top: 30vh;
+  padding: 10px;
+  color: white;
+  background-color: #55acee; 
+  border: solid 1px white;
+  font-size: 15px;
+  width: 300px;
+}
+
+h1 {
+	font-size: 50px;
+	padding-bottom: 70px;
+}
+
+.box {
+	font-size: 20px;
+}
+
+.tweet {
+	display: block;
+	border: solid 1px white;
+	padding: 10px;
+	width: 300px;
+	padding: 10px 0;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+
+a.tweet {
+	text-decoration: none;
+	color: white;
+	
+
+}
